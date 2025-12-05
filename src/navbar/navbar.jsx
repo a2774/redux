@@ -10,7 +10,7 @@ function Navbar() {
         <div className='flex h-16 items-center justify-between'>
           <div className='flex items-center gap-2'>
             <div className='h-8 w-8 rounded-full bg-sky-500' />
-            <span className='text-lg font-semibold tracking-tight'>MyNavbar</span>
+            <span className='text-lg font-semibold tracking-tight'>Hello this side Anil Kumar</span>
           </div>
 
           <div className='hidden space-x-6 md:flex'>
